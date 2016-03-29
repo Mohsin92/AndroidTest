@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">SIP Push</string>
+
+    <string name="search_hint">Search</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="domains">domains</string>
+    <string name="authusername">authusername</string>
+    <string name="outbound">outbound</string>
+    <string name="dispname">dispname</string>
+    <string name="talk">Talk</string>
+    <bool name="editable">true</bool>
+
+
+
+</resources>
