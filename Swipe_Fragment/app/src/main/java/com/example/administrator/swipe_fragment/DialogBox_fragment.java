@@ -35,7 +35,7 @@ public class DialogBox_fragment extends DialogFragment {
         getDialog().getWindow()
                 .getAttributes().windowAnimations = R.style.DialogAnimation;
     }
-    
+
     @Override
     public Dialog onCreateDialog(Bundle savedInstanceState) {
         final String title = getArguments().getString("title");
