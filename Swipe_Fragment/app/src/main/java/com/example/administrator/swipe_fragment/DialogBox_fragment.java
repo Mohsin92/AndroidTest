@@ -19,6 +19,7 @@ public class DialogBox_fragment extends DialogFragment {
 
     public DialogBox_fragment() {
     }
+    //testol...
 
     public static DialogBox_fragment newInstance(String title) {
         DialogBox_fragment frag = new DialogBox_fragment();
